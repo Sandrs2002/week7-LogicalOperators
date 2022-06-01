@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{49EE0FAF-927F-4A15-8AC9-067710C4ABC5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Discount FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ANDOperator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Discount/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="ANDOperator/Program.cs" Line="29" Column="52" />
+      <File FileName="OROperator/Program.cs" Line="53" Column="54" />
+      <File FileName="EnglishWeather/Program.cs" Line="33" Column="14" />
+      <File FileName="Discount/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LogicalOperators" expanded="True">
+            <Node name="ANDOperator" expanded="True" />
+            <Node name="Discount" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="EnglishWeather" expanded="True" />
+            <Node name="LogicalOperators" expanded="True" />
+            <Node name="OROperator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EnglishWeather FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LogicalOperators FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OROperator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

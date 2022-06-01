@@ -1,0 +1,15 @@
+/Users/aleks/Projects/LogicalOperators/OROperator/bin/Debug/net5.0/OROperator.deps.json
+/Users/aleks/Projects/LogicalOperators/OROperator/bin/Debug/net5.0/OROperator.runtimeconfig.json
+/Users/aleks/Projects/LogicalOperators/OROperator/bin/Debug/net5.0/OROperator.runtimeconfig.dev.json
+/Users/aleks/Projects/LogicalOperators/OROperator/bin/Debug/net5.0/OROperator.dll
+/Users/aleks/Projects/LogicalOperators/OROperator/bin/Debug/net5.0/ref/OROperator.dll
+/Users/aleks/Projects/LogicalOperators/OROperator/bin/Debug/net5.0/OROperator.pdb
+/Users/aleks/Projects/LogicalOperators/OROperator/obj/Debug/net5.0/OROperator.csproj.AssemblyReference.cache
+/Users/aleks/Projects/LogicalOperators/OROperator/obj/Debug/net5.0/OROperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/LogicalOperators/OROperator/obj/Debug/net5.0/OROperator.AssemblyInfoInputs.cache
+/Users/aleks/Projects/LogicalOperators/OROperator/obj/Debug/net5.0/OROperator.AssemblyInfo.cs
+/Users/aleks/Projects/LogicalOperators/OROperator/obj/Debug/net5.0/OROperator.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/LogicalOperators/OROperator/obj/Debug/net5.0/OROperator.dll
+/Users/aleks/Projects/LogicalOperators/OROperator/obj/Debug/net5.0/ref/OROperator.dll
+/Users/aleks/Projects/LogicalOperators/OROperator/obj/Debug/net5.0/OROperator.pdb
+/Users/aleks/Projects/LogicalOperators/OROperator/obj/Debug/net5.0/OROperator.genruntimeconfig.cache

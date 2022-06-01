@@ -1,0 +1,15 @@
+/Users/aleks/Projects/LogicalOperators/ANDOperator/bin/Debug/net5.0/ANDOperator.deps.json
+/Users/aleks/Projects/LogicalOperators/ANDOperator/bin/Debug/net5.0/ANDOperator.runtimeconfig.json
+/Users/aleks/Projects/LogicalOperators/ANDOperator/bin/Debug/net5.0/ANDOperator.runtimeconfig.dev.json
+/Users/aleks/Projects/LogicalOperators/ANDOperator/bin/Debug/net5.0/ANDOperator.dll
+/Users/aleks/Projects/LogicalOperators/ANDOperator/bin/Debug/net5.0/ref/ANDOperator.dll
+/Users/aleks/Projects/LogicalOperators/ANDOperator/bin/Debug/net5.0/ANDOperator.pdb
+/Users/aleks/Projects/LogicalOperators/ANDOperator/obj/Debug/net5.0/ANDOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/LogicalOperators/ANDOperator/obj/Debug/net5.0/ANDOperator.AssemblyInfoInputs.cache
+/Users/aleks/Projects/LogicalOperators/ANDOperator/obj/Debug/net5.0/ANDOperator.AssemblyInfo.cs
+/Users/aleks/Projects/LogicalOperators/ANDOperator/obj/Debug/net5.0/ANDOperator.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/LogicalOperators/ANDOperator/obj/Debug/net5.0/ANDOperator.dll
+/Users/aleks/Projects/LogicalOperators/ANDOperator/obj/Debug/net5.0/ref/ANDOperator.dll
+/Users/aleks/Projects/LogicalOperators/ANDOperator/obj/Debug/net5.0/ANDOperator.pdb
+/Users/aleks/Projects/LogicalOperators/ANDOperator/obj/Debug/net5.0/ANDOperator.genruntimeconfig.cache
+/Users/aleks/Projects/LogicalOperators/ANDOperator/obj/Debug/net5.0/ANDOperator.csproj.AssemblyReference.cache

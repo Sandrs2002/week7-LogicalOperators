@@ -1,0 +1,15 @@
+/Users/aleks/Projects/LogicalOperators/Discount/bin/Debug/net5.0/Discount.deps.json
+/Users/aleks/Projects/LogicalOperators/Discount/bin/Debug/net5.0/Discount.runtimeconfig.json
+/Users/aleks/Projects/LogicalOperators/Discount/bin/Debug/net5.0/Discount.runtimeconfig.dev.json
+/Users/aleks/Projects/LogicalOperators/Discount/bin/Debug/net5.0/Discount.dll
+/Users/aleks/Projects/LogicalOperators/Discount/bin/Debug/net5.0/ref/Discount.dll
+/Users/aleks/Projects/LogicalOperators/Discount/bin/Debug/net5.0/Discount.pdb
+/Users/aleks/Projects/LogicalOperators/Discount/obj/Debug/net5.0/Discount.csproj.AssemblyReference.cache
+/Users/aleks/Projects/LogicalOperators/Discount/obj/Debug/net5.0/Discount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/LogicalOperators/Discount/obj/Debug/net5.0/Discount.AssemblyInfoInputs.cache
+/Users/aleks/Projects/LogicalOperators/Discount/obj/Debug/net5.0/Discount.AssemblyInfo.cs
+/Users/aleks/Projects/LogicalOperators/Discount/obj/Debug/net5.0/Discount.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/LogicalOperators/Discount/obj/Debug/net5.0/Discount.dll
+/Users/aleks/Projects/LogicalOperators/Discount/obj/Debug/net5.0/ref/Discount.dll
+/Users/aleks/Projects/LogicalOperators/Discount/obj/Debug/net5.0/Discount.pdb
+/Users/aleks/Projects/LogicalOperators/Discount/obj/Debug/net5.0/Discount.genruntimeconfig.cache
